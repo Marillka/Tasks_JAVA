@@ -1,3 +1,4 @@
+// страница 222
 public class MyClass {
     private int alpha;// закрытый доступ
     public int beta;// открытый доступ
